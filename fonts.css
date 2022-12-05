@@ -1,0 +1,14 @@
+@font-face {
+    font-family: bigilla bold;
+    src: url("../c/Bigilla-Bold.otf") format('truetype');
+}
+
+@font-face {
+    font-family: bigilla;
+    src: url("../c/Bigilla.otf") format('truetype');
+}
+
+@font-face {
+    font-family: quillen;
+    src: url("../c/quillen-k7qay.otf") format('truetype');
+}
