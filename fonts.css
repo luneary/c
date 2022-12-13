@@ -12,3 +12,8 @@
     font-family: quillen;
     src: url("../c/quillen-k7qay.otf") format('truetype');
 }
+
+@font-face {
+    font-family: Balgor;
+    src: url("../c/Balgor.otf") format('truetype');
+}
