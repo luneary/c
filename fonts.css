@@ -17,3 +17,19 @@
     font-family: Balgor;
     src: url("../c/Balgor.ttf") format('truetype');
 }
+
+@font-face {
+    font-family: feldberg;
+    src: url("../c/Feldberg.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Soligant;
+    src: url("../c/Soligant.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: whimsterglympse;
+    src: url("../c/
+whimsterglympsedemo-k7j2z.otf") format('truetype');
+}
