@@ -30,6 +30,35 @@
 
 @font-face {
     font-family: whimsterglympse;
-    src: url("../c/
-whimsterglympsedemo-k7j2z.otf") format('truetype');
+    src: url("../c/whimsterglympsedemo-k7j2z.otf") format('truetype');
+}
+
+@font-face {
+    font-family: coco regular;
+    src: url("../c/coco-regular.otf") format('truetype');
+}
+
+@font-face {
+    font-family: coco bold;
+    src: url("../c/coco-bold.otf") format('truetype');
+}
+
+@font-face {
+    font-family: coco bold condensed;
+    src: url("../c/coco-boldcondensed.otf") format('truetype');
+}
+
+@font-face {
+    font-family: coco bold italic;
+    src: url("../c/coco-bolditalic.otf") format('truetype');
+}
+
+@font-face {
+    font-family: coco condensed;
+    src: url("../c/coco-condensed.otf") format('truetype');
+}
+
+@font-face {
+    font-family: coco italic condensed;
+    src: url("../c/coco-condenseditalic.otf") format('truetype');
 }
