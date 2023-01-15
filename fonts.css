@@ -62,3 +62,8 @@
     font-family: coco italic condensed;
     src: url("../c/coco-condenseditalic.otf") format('truetype');
 }
+
+@font-face {
+    font-family: hugiller;
+    src: url("../c/Hugiller DEMO.otf") format('truetype');
+}
