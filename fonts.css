@@ -67,3 +67,63 @@
     font-family: hugiller;
     src: url("../c/Hugiller DEMO.otf") format('truetype');
 }
+
+@font-face {
+    font-family: belianty italic;
+    src: url("../c/Belianty Elesha Italic.otf") format('truetype');
+}
+
+@font-face {
+    font-family: belianty;
+    src: url("../c/Belianty Elesha.otf") format('truetype');
+}
+
+@font-face {
+    font-family: cigra;
+    src: url("../c/Cigra Free Demo.otf") format('truetype');
+}
+
+@font-face {
+    font-family: gishella italic;
+    src: url("../c/Gishella Morely Italic.otf") format('truetype');
+}
+
+@font-face {
+    font-family: gishella;
+    src: url("../c/Gishella Morely.otf") format('truetype');
+}
+
+@font-face {
+    font-family: hatolie;
+    src: url("../c/Hatolie.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: kaftan;
+    src: url("../c/kaftan-trial.otf") format('truetype');
+}
+
+@font-face {
+    font-family: new york;
+    src: url("../c/NewYork PERSONAL USE.otf") format('truetype');
+}
+
+@font-face {
+    font-family: oranienbaum;
+    src: url("../c/Oranienbaum.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: ring netlike;
+    src: url("../c/Ring Netlike_dafont.otf") format('truetype');
+}
+
+@font-face {
+    font-family: romans story;
+    src: url("../c/Romans Story.otf") format('truetype');
+}
+
+@font-face {
+    font-family: vigran maroll;
+    src: url("../c/Vigran Maroll.otf") format('truetype');
+}
