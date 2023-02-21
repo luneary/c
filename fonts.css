@@ -133,3 +133,52 @@
     src: url("../c/RemboyRegular.ttf") format('truetype');
 }
 
+@font-face {
+    font-family: neco regular;
+    src: url("../c/Neco-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: neco medium;
+    src: url("../c/Neco-Medium.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: neco medium italic;
+    src: url("../c/Neco-MediumItalic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: neco italic;
+    src: url("../c/Neco-Italic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: neco bold;
+    src: url("../c/Neco-Bold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: neco bold italic;
+    src: url("../c/Neco-BoldItalic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: neco black;
+    src: url("../c/Neco-Black.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: neco black italic;
+    src: url("../c/Neco-BlackItalic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: neco variable;
+    src: url("../c/Neco-Variable.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: neco variable italic;
+    src: url("../c/Neco-VariableItalic.ttf") format('truetype');
+}
