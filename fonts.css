@@ -127,3 +127,9 @@
     font-family: vigran maroll;
     src: url("../c/Vigran Maroll.otf") format('truetype');
 }
+
+@font-face {
+    font-family: remboy;
+    src: url("../c/RemboyRegular.ttf") format('truetype');
+}
+
