@@ -362,3 +362,28 @@
     font-family: fifteen;
     src: url("../c/rogre.otf") format('truetype');
 }
+
+@font-face {
+    font-family: sixteen;
+    src: url("../c/CottonFields-7BdmA.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: seventeen;
+    src: url("../c/SaltymussyDemo-rgKd7.otf") format('truetype');
+}
+
+@font-face {
+    font-family: eighteen;
+    src: url("../c/Courthes-nRldY.otf") format('truetype');
+}
+
+@font-face {
+    font-family: nineteen;
+    src: url("../c/Mifelin-ax65K.otf") format('truetype');
+}
+
+@font-face {
+    font-family: twenty;
+    src: url("../c/Gravhez.otf") format('truetype');
+}
