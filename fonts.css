@@ -387,3 +387,8 @@
     font-family: twenty;
     src: url("../c/Gravhez.otf") format('truetype');
 }
+
+@font-face {
+    font-family: new york;
+    src: url("../c/NewYork PERSONAL USE.otf") format('truetype');
+}
