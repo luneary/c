@@ -1488,14 +1488,6 @@ ttc:hover {
     letter-spacing: 1px;
 }
 
-[data-color-scheme="light"] .cin_catlinks a:nth-child(even) {
-    background:var(--bg1); 
-}
-
-[data-color-scheme="light"] .cin_catlinks a:nth-child(odd) {
-    background: -webkit-linear-gradient(50deg, var(--color1), var(--color2), var(--color3));
-}
-
 .cin_catlinks a:nth-child(even) {
     background-color: var(--color1);
 }
