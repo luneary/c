@@ -3,3 +3,12 @@
     src: url("../c/CloisterBlack.ttf") format('truetype');
 }
 
+@font-face {
+    font-family: geist;
+    src: url("../c/Geist-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: geist mono;
+    src: url("../c/GeistMono-Regular.ttf") format('truetype');
+}
