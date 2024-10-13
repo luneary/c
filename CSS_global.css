@@ -30,7 +30,7 @@
     --weight2: 900;
     --font1: 'Staatliches', cursive;
     --font2: 'cloister_blacklight';
-    --font3: 'Geist-Regular';
+    --font3: 'Geist';
     --font4: 'Cappuccicons';
     --font5: 'a_dripping_markerregular';
 	--font6: 'Cormorant Infant', serif;
@@ -1537,9 +1537,9 @@ ttc:hover {
 
 /*----- QEEL -----*/
 .cinqeel_titre {
-    margin: 0px 0px -28px 0px;
+    margin: 0px 0px -16px 0px;
     border-radius: 4px;
-    font-size: 190px;
+    font-size: 148px;
     line-height: 100px;
     background: -webkit-linear-gradient(162deg, var(--color1), var(--color2), var(--color3));
     -webkit-background-clip: text;
