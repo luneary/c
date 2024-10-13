@@ -392,3 +392,8 @@
     font-family: new york;
     src: url("../c/NewYork PERSONAL USE.otf") format('truetype');
 }
+
+@font-face {
+    font-family: Cloister Black;
+    src: url("../c/CloisterBlack.ttf") format('truetype');
+}
