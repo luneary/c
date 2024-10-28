@@ -17,3 +17,58 @@
     font-family: raindrops;
     src: url("../c/Raindrops.otf") format('truetype');
 }
+
+@font-face {
+    font-family: gold line serif;
+    src: url("../c/GoldlinesseriftrialRegular-Rp6RA.otf") format('truetype');
+}
+
+@font-face {
+    font-family: gold line regular;
+    src: url("../c/GoldlinestrialRegular-BWE4d.otf") format('truetype');
+}
+
+@font-face {
+    font-family: herqin;
+    src: url("../c/herqin.otf") format('truetype');
+}
+
+@font-face {
+    font-family: salvaa;
+    src: url("../c/Salvaavauger.otf") format('truetype');
+}
+
+@font-face {
+    font-family: sommar;
+    src: url("../c/SommarDisplay.otf") format('truetype');
+}
+
+@font-face {
+    font-family: sunset heaven;
+    src: url("../c/sunsetheavenpersonaluseonly-ayx55.otf") format('truetype');
+}
+
+@font-face {
+    font-family: the bold font;
+    src: url("../c/THE BOLD FONT - FREE VERSION - 2023.otf") format('truetype');
+}
+
+@font-face {
+    font-family: tropical regular;
+    src: url("../c/Tropical-Qebalon-Script-BF651410a9e87a1.otf") format('truetype');
+}
+
+@font-face {
+    font-family: tropical italic;
+    src: url("../c/Tropical-Qebalon-Script-Italic-BF651410a9e5d41.otf") format('truetype');
+}
+
+@font-face {
+    font-family: tropical serif;
+    src: url("../c/Tropical-Qebalon-Serif-BF651410a9b32c3.otf") format('truetype');
+}
+
+@font-face {
+    font-family: tropical serif italic;
+    src: url("../c/Tropical-Qebalon-Serif-Italic-BF651410a9c44ad.otf") format('truetype');
+}
